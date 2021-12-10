@@ -1,0 +1,7 @@
+name: MessageLogs
+version: 1.0.0
+api: 4.0.0
+author: Refaltor
+main: Refaltor\MessageLogs\MessageLogs
+website: https://nuketown.fr
+description: Plugin that allows to generate logs to have a trace of the chat in game.
